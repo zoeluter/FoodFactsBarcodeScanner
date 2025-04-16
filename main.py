@@ -1,4 +1,4 @@
-import requests
+from pip._vendor import requests #update number one to make it run
 
 def get_product_info(barcode):
     url = f"https://world.openfoodfacts.org/api/v0/product/{barcode}.json"

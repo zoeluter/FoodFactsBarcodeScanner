@@ -1,6 +1,14 @@
 # Welcome to Thought for Food! 
 
-Thought for Food is a Python-based tool that uses the Open Food Facts API to fetch and display food product information. The user provides a product barcode, and the application returns the product's name, ingredients, and nutritional information. #readmepart 1
+Thought for Food is a Python-based tool that uses the Open Food Facts API to fetch and display food product information. The user provides a product barcode, and the application returns the product's name, ingredients, and nutritional information.
+
+This a prototype for a tool that would identify if sodium intake exceeds the daily recommended amount for a user profile identified as having hypertension.
+
+## Table of Contents
+Our application will have the following tabs:
+ - User profile set up
+ - Food Scanner
+ - A tool that alerts if sodium intake exceeds the daily recommended amount of 1500 mg per day.
 
 ## Getting Started
 

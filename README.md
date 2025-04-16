@@ -1,4 +1,4 @@
-
+this is a test by zoe luter 
 # FoodFactsBarcodeScanner
 
 FoodFactsBarcodeScanner is a Python-based command-line tool that uses the Open Food Facts API to fetch and display food product information. The user provides a product barcode, and the application returns the product's name, ingredients, and nutritional information. 
